@@ -1,2 +1,1 @@
 print('ddd')
-print('chenshiyun')
