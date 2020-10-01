@@ -1,2 +1,0 @@
-print('ddd')
-pint('chenshiynaaaaaa')
